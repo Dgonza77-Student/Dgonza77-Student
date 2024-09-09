@@ -52,6 +52,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management-007ACC?&style=for-the-badge&logo=Qualys&logoColor=white" />
 <img src="https://img.shields.io/badge/-NDG%20Linux%20Unhatched-4D4D4D?&style=for-the-badge&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Intro%20to%20Cybersecurity-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ## Projects
