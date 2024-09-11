@@ -26,7 +26,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tcpdump-1E90FF?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/-Suricata-FF4500?&style=for-the-badge&logo=Suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Autopsy-2C3E50?&style=for-the-badge&logo=Autopsy&logoColor=white" />
