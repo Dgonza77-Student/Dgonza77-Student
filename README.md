@@ -19,6 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Digital Forensic image analyzation              | SOC Automation Lab|
 | Firewall management in Ubuntu                   | SOC Automation Lab|
 | Network Socket Analysis                         | SOC Automation Lab|
+| Bash Scripting                                  | SOC Automation Lab|
 
 ## Tools
 
