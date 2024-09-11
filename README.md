@@ -1,6 +1,5 @@
 # Hello, I'm Daniel Gonzalez
-<a href="www.linkedin.com/in/dgonza77"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<a href="https://www.linkedin.com/in/dgonza77"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a current Student at Kennesaw State University with a major in Cybersecurity.
 
