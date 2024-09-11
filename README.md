@@ -29,21 +29,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/-Amazon%20AWS%20Web%20Services-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Autopsy-2C3E50?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+<img src="https://img.shields.io/badge/-HashCalc-1E90FF?&style=for-the-badge" />
+
  
 </div>
 
 
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ### Programming Languages
 <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
@@ -60,7 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-NDG%20Linux%20Unhatched-4D4D4D?&style=for-the-badge&logo=Linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Intro%20to%20Cybersecurity-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Aviatrix%20Certified%20Engineer%20Multicloud%20Network%20Associate%20Certification%20Exam-28B463?&style=for-the-badge&logo=Aviatrix&logoColor=white" />
-<img src="https://img.shields.io/badge/-ACE%20Associate%20Certification-28B463?&style=for-the-badge&logo=Aviatrix&logoColor=white" />
+
 
 </div>
 
