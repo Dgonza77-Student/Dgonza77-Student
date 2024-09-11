@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Conducting a Security Audit                     | <a href="[https://google.com](https://github.com/Dgonza77-Student/Conduct-an-Audit/tree/main)">Detection Lab</a>|
+| Conducting a Security Audit                     | <a href="https://github.com/Dgonza77-Student/Conduct-an-Audit/tree/main">Conducting a Security Audit</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Python Scripting and Automation                 | SOC Automation Lab|
 | Linux & SQL                                     | SOC Automation Lab|
@@ -64,5 +64,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- <a href="https://github.com/Dgonza77-Student/Conduct-an-Audit/tree/main">Conducting a Security Audit</a>
 - Detection Lab
 - SOC Automation Project
