@@ -1,17 +1,14 @@
 # Hello, I'm Daniel Gonzalez
 <a href="www.linkedin.com/in/dgonza77"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a current Student at Kennesaw State University with a major in Cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-------------------------------------------------|----------------------------|
@@ -24,14 +21,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Socket Analysis                         | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-
 <img src="https://img.shields.io/badge/-Autopsy-2C3E50?&style=for-the-badge&logo=Autopsy&logoColor=white" />
 <img src="https://img.shields.io/badge/-HashCalc-1E90FF?&style=for-the-badge" />
 
@@ -48,7 +44,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management-007ACC?&style=for-the-badge&logo=Qualys&logoColor=white" />
