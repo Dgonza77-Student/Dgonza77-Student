@@ -30,7 +30,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/-Amazon%20AWS%20Web%20Services-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+
 <img src="https://img.shields.io/badge/-Autopsy-2C3E50?&style=for-the-badge&logo=Autopsy&logoColor=white" />
 <img src="https://img.shields.io/badge/-HashCalc-1E90FF?&style=for-the-badge" />
 
