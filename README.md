@@ -53,6 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-NDG%20Linux%20Unhatched-4D4D4D?&style=for-the-badge&logo=Linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Intro%20to%20Cybersecurity-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Aviatrix%20Certified%20Engineer%20Multicloud%20Network%20Associate%20Certification-28B463?&style=for-the-badge&logo=Aviatrix&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> (Est. Dec 2024)
 
 
 </div>
