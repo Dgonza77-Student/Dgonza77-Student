@@ -31,6 +31,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Autopsy-2C3E50?&style=for-the-badge&logo=Autopsy&logoColor=white" />
 <img src="https://img.shields.io/badge/-HashCalc-1E90FF?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Microsoft%20Word-2B579A?&style=for-the-badge&logo=Microsoft%20Word&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?&style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />
 
  
 </div>
