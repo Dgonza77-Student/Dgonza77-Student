@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Digital Forensic image analyzation              | <a href="https://github.com/Dgonza77-Student/Digital-Forensic-Image-Analyzation">Image Analyzation</a>||
 | Firewall management in Ubuntu                   | SOC Automation Lab|
 | Network Socket Analysis                         | SOC Automation Lab|
-| Bash Scripting                                  | <a href="https://github.com/Dgonza77-Student/Bash-Scripting/blob/main/Iteration.md">Image Analyzation</a>|
+| Bash Scripting                                  | <a href="https://github.com/Dgonza77-Student/Bash-Scripting/blob/main/Iteration.md">Bash Scripting/Automation</a>|
 
 ## Tools
 
