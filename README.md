@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-------------------------------------------------|----------------------------|
 | Conducting a Security Audit                     | <a href="https://github.com/Dgonza77-Student/Conduct-an-Audit/tree/main">Conducting a Security Audit</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Dgonza77-Student/Network-Traffic-Monitoring-and-Attack-Detection">Network Traffic Monitoring</a>|
-| Python Scripting and Automation                 | SOC Automation Lab|
+| Python Scripting and Automation                 |  <a href="https://github.com/Dgonza77-Student/Python-Scripting/edit/main/README.md#tools-used">Python Scripting and Automation</a>||
 | Linux & SQL                                     |  <a href="https://github.com/Dgonza77-Student/Linux-SQL/blob/main/README.md">Linux and SQL</a>|| 
 | Digital Forensic image analyzation              | <a href="https://github.com/Dgonza77-Student/Digital-Forensic-Image-Analyzation">Image Analyzation</a>||
 | Firewall management in Ubuntu                   | SOC Automation Lab|
