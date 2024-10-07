@@ -11,12 +11,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Conducting a Security Audit                     | <a href="https://github.com/Dgonza77-Student/Conduct-an-Audit/tree/main">Controls and Compliance assessment</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Dgonza77-Student/Network-Traffic-Monitoring-and-Attack-Detection">Network Traffic Monitoring</a>|
-| Python Scripting and Automation                 |  <a href="https://github.com/Dgonza77-Student/Python-Scripting/blob/main/IP%20Address%20Management.md">Python Scripting and Automation</a>||
-| Linux & SQL                                     |  <a href="https://github.com/Dgonza77-Student/Linux-SQL/blob/main/Manage%20File%20Authorization.md">Linux and SQL</a>|| 
-| IDS & SIEM                                      | <a href="https://github.com/Dgonza77-Student/IDS-and-SIEM/blob/main/README.md">IDS & SIEM</a>||      
-| Bash Scripting                                  | <a href="https://github.com/Dgonza77-Student/Bash-Scripting/blob/main/Iteration.md">Bash Scripting/Automation</a>|
+| Conducting a Security Audit                     | <a href="https://github.com/Dgonza77-Student/Conduct-an-Audit/blob/main/Gonzalez-Conduct%20a%20security%20audit.md">Controls and Compliance assessment</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Dgonza77-Student/Network-Traffic-Monitoring-and-Attack-Detection/blob/main/OS%20Hardening.md">OS Hardening</a>|
+| Python Scripting and Automation                 |  <a href="https://github.com/Dgonza77-Student/Python-Scripting/blob/main/IP%20Address%20Management.md">IP Address Management</a>||
+| Linux & SQL                                     |  <a href="https://github.com/Dgonza77-Student/Linux-SQL/blob/main/Manage%20File%20Authorization.md">File Authorization Management</a>|| 
+| IDS & SIEM                                      | <a href="https://github.com/Dgonza77-Student/IDS-and-SIEM/blob/main/Suricata.md">Suricata</a>||      
+| Bash Scripting                                  | <a href="https://github.com/Dgonza77-Student/Bash-Scripting/blob/main/AutoDir%20Constructor%20Lab.md">Auto Directory Constructor</a>|
 
 ## Tools
 
@@ -59,7 +59,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
-## Projects
-- <a href="https://github.com/Dgonza77-Student/Conduct-an-Audit/tree/main">Conducting a Security Audit</a>
-- Detection Lab
-- SOC Automation Project
+
