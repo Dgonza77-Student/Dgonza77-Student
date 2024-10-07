@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Conducting a Security Audit                     | <a href="https://github.com/Dgonza77-Student/Conduct-an-Audit/tree/main">Conducting a Security Audit</a>|
+| Conducting a Security Audit                     | <a href="https://github.com/Dgonza77-Student/Conduct-an-Audit/tree/main">Controls and Compliance assessment</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Dgonza77-Student/Network-Traffic-Monitoring-and-Attack-Detection">Network Traffic Monitoring</a>|
 | Python Scripting and Automation                 |  <a href="https://github.com/Dgonza77-Student/Python-Scripting/blob/main/IP%20Address%20Management.md">Python Scripting and Automation</a>||
 | Linux & SQL                                     |  <a href="https://github.com/Dgonza77-Student/Linux-SQL/blob/main/Manage%20File%20Authorization.md">Linux and SQL</a>|| 
