@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-------------------------------------------------|----------------------------|
 | SIEM/AZURE/SENTINEL/VM                          | <a href="https://github.com/Dgonza77-Student/Azure-Sentinel-SIEM">Honeypot</a>|
-| Conducting a Security Audit                     | <a href="https://github.com/Dgonza77-Student/Conduct-an-Audit/blob/main/Gonzalez-Conduct%20a%20security%20audit.md">Controls and Compliance assessment</a>|
+| Conducting a Security Audit                     | <a href="https://github.com/Dgonza77-Student/Conduct-an-Audit/blob/main/CSF%20And%20Privacy%20Framework%20Audit.md">Controls and Compliance assessment</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Dgonza77-Student/Network-Traffic-Monitoring-and-Attack-Detection/blob/main/OS%20Hardening.md">OS Hardening</a>|
 | Python Scripting and Automation                 |  <a href="https://github.com/Dgonza77-Student/Python-Scripting/blob/main/IP%20Address%20Management.md">IP Address Management</a>||
 | Linux & SQL                                     |  <a href="https://github.com/Dgonza77-Student/Linux-SQL/blob/main/Manage%20File%20Authorization.md">File Authorization Management</a>|| 
