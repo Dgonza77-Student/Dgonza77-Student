@@ -5,7 +5,10 @@ I am a current Student at Kennesaw State University with a major in Cybersecurit
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+I am a dedicated and detail-oriented cybersecurity professional with a strong foundation in computer science and a passion for safeguarding digital ecosystems. My journey in technology has fueled my enthusiasm for cybersecurity, and I am eager to apply my skills to roles that encompass Governance, Risk, and Compliance (GRC), Risk Management, or Security Operations.
+
+
+
 
 ## Skills
 
