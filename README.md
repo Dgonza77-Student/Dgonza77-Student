@@ -21,6 +21,7 @@ I am a dedicated and detail-oriented cybersecurity professional with a strong fo
 | Linux & SQL                                     |  <a href="https://github.com/Dgonza77-Student/Linux-SQL/blob/main/Manage%20File%20Authorization.md">File Authorization Management</a>|| 
 | IDS & SIEM                                      | <a href="https://github.com/Dgonza77-Student/IDS-and-SIEM/blob/main/Suricata.md">Suricata</a>||      
 | Bash Scripting                                  | <a href="https://github.com/Dgonza77-Student/Bash-Scripting/blob/main/AutoDir%20Constructor%20Lab.md">Auto Directory Constructor</a>|
+| Vulnerability Management                        | <a href="https://github.com/Dgonza77-Student/Vulnerability-Management">Vulnerability Management/STIG Implementation</a>|
 
 ## Tools
 
