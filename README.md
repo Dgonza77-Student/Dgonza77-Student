@@ -15,6 +15,7 @@ I am a dedicated and detail-oriented cybersecurity professional with a strong fo
 | Skill                                         | Associated Project         |
 |-------------------------------------------------|----------------------------|
 | Vulnerability Management                        | <a href="https://github.com/Dgonza77-Student/Vulnerability-Management">Vulnerability Management/STIG Implementation</a>|
+| Threat Hunting                                  | <a href="https://github.com/Dgonza77-Student/Threathunt/tree/main">Windows Server Threat Hunt</a>|
 | SIEM/AZURE/SENTINEL/VM                          | <a href="https://github.com/Dgonza77-Student/Azure-Sentinel-SIEM">Honeypot</a>|
 | Conducting a Security Audit                     | <a href="https://github.com/Dgonza77-Student/Conduct-an-Audit/tree/main">Controls and Compliance assessment</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Dgonza77-Student/Network-Traffic-Monitoring-and-Attack-Detection/blob/main/OS%20Hardening.md">OS Hardening</a>|
@@ -22,7 +23,6 @@ I am a dedicated and detail-oriented cybersecurity professional with a strong fo
 | Linux & SQL                                     |  <a href="https://github.com/Dgonza77-Student/Linux-SQL/blob/main/Manage%20File%20Authorization.md">File Authorization Management</a>|| 
 | IDS & SIEM                                      | <a href="https://github.com/Dgonza77-Student/IDS-and-SIEM/blob/main/Suricata.md">Suricata</a>||      
 | Bash Scripting                                  | <a href="https://github.com/Dgonza77-Student/Bash-Scripting/blob/main/AutoDir%20Constructor%20Lab.md">Auto Directory Constructor</a>|
-
 
 ## Tools
 
